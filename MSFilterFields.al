@@ -5,7 +5,7 @@ page 50102 "MS Filter Fields"
     UsageCategory = None;
     SourceTable = "MS Filter Table";
 
-    Caption = 'Select Sorting Fields';
+    Caption = 'Select Filter Fields';
     layout
     {
         area(Content)
